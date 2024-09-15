@@ -24,7 +24,7 @@
 
 ### 🌐 *Connect with Me*  
 <p align="center">
-    <a href="https://www.linkedin.com/in/subhalakshmi-v-38297327b">
+    <a href="https://www.linkedin.com/in/abarna-r07">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
     </a>
 </p>
@@ -48,7 +48,7 @@
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="45px"/>
 </p>
 
----
+
 
 <h2 align="left">🛠 Tools I Use</h2>
 <p align="center">
@@ -57,16 +57,15 @@
   <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="ChatGPT" width="45px"/>
 </p>
 
----
+
 
 <h2 align="left">📖 Platforms for Coding Practice</h2>
 <p align="center">
-    <img src="https://img.icons8.com/fluency/70/codewars.png" alt="Codewars" width="60px"/> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-2944960.png" alt="LeetCode" width="60px"/> 
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="60px"/>
 </p>
 
----
+
 
 <h2 align="left">💻 Workspace Setup</h2>
 <p align="center">
@@ -74,14 +73,14 @@
   <img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="Windows" width="45px"/>
 </p>
 
----
+
 
 <h2 align="left">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abarna-R&show_icons=true&theme=default" alt="GitHub Stats" width="500px"/>
 </p>
 
----
+
 
 <h2 align="left">🌟 GitHub Activity Graph</h2>
 <p align="center">
